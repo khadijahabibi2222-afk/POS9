@@ -1,4 +1,4 @@
-
+/**
  * SwiftPOS — server.js
  * Express + fs (flat JSON file) — zero native dependencies.
  * No better-sqlite3, no node-gyp, no compilation. Runs on Render free tier.
